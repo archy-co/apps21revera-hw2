@@ -7,10 +7,6 @@ import static org.junit.Assert.*;
 
 public class ImmutableArrayListTest {
 
-    @Before
-    public void setUp() throws Exception {
-    }
-
     @Test
     public void add() {
         Object [] numbers1 = {3, 13, 23};
